@@ -18,3 +18,5 @@ https://github.com/hraverkar/ProgramForDaily/blob/master/SortedArray.cs
 https://github.com/hraverkar/ProgramForDaily/blob/master/FindMissingNumber.cs
 6) Find out missing element from the Array(Using Addition )
 https://github.com/hraverkar/ProgramForDaily/blob/master/MissingElementFromArray.cs
+7) Reverse String Program without using builtin Function.
+https://github.com/hraverkar/ProgramForDaily/blob/master/ReverseString.cs
