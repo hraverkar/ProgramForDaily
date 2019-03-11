@@ -20,3 +20,5 @@ https://github.com/hraverkar/ProgramForDaily/blob/master/FindMissingNumber.cs
 https://github.com/hraverkar/ProgramForDaily/blob/master/MissingElementFromArray.cs
 7) Reverse String Program without using builtin Function.
 https://github.com/hraverkar/ProgramForDaily/blob/master/ReverseString.cs
+8) Reverse String Using XOR.
+https://github.com/hraverkar/ProgramForDaily/blob/master/ReverseStringsusingXOR.cs
