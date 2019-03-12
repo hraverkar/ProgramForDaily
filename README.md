@@ -26,3 +26,5 @@ https://github.com/hraverkar/ProgramForDaily/blob/master/ReverseStringsusingXOR.
 https://github.com/hraverkar/ProgramForDaily/blob/master/ReveseWord.cs
 10) Permutation of string 
 https://github.com/hraverkar/ProgramForDaily/blob/master/StringPermutation.cs
+11) Replace string with "%20"
+https://github.com/hraverkar/ProgramForDaily/blob/master/RepalceStringWithWord.cs
