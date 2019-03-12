@@ -24,3 +24,5 @@ https://github.com/hraverkar/ProgramForDaily/blob/master/ReverseString.cs
 https://github.com/hraverkar/ProgramForDaily/blob/master/ReverseStringsusingXOR.cs
 9) Reverse Word - String Problem
 https://github.com/hraverkar/ProgramForDaily/blob/master/ReveseWord.cs
+10) Permutation of string 
+https://github.com/hraverkar/ProgramForDaily/blob/master/StringPermutation.cs
