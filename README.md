@@ -28,3 +28,6 @@ https://github.com/hraverkar/ProgramForDaily/blob/master/ReveseWord.cs
 https://github.com/hraverkar/ProgramForDaily/blob/master/StringPermutation.cs
 11) Replace string with "%20"
 https://github.com/hraverkar/ProgramForDaily/blob/master/RepalceStringWithWord.cs
+12) Running length encoding problem... Example (aaabbccd)--- > a3b2c2d
+https://github.com/hraverkar/ProgramForDaily/blob/master/RunningLengthIncoading.cs
+
