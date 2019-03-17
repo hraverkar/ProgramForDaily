@@ -30,4 +30,6 @@ https://github.com/hraverkar/ProgramForDaily/blob/master/StringPermutation.cs
 https://github.com/hraverkar/ProgramForDaily/blob/master/RepalceStringWithWord.cs
 12) Running length encoding problem... Example (aaabbccd)--- > a3b2c2d
 https://github.com/hraverkar/ProgramForDaily/blob/master/RunningLengthIncoading.cs
+13) Array sort,  Find maximum and minimum in given array and find median of array.
+https://github.com/hraverkar/ProgramForDaily/blob/master/ArrayOperation.cs
 
