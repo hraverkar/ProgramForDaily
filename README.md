@@ -2,9 +2,9 @@
 Daily life small program  using C#. 
 
 Tools : 
-IDE: VisualStudio 2017
+IDE: VisualStudio 2017 , IntelliJ RIDER
 Database -  Microsoft SQL Server.
-Version: .NET 4.6.1
+Version: .NET 4.6.1, #4.6.2
 Project Type :Console Application;
 
 1) Example related to interface in c# - Interface Example https://github.com/hraverkar/ProgramForDaily/blob/master/InterfaceExample.cs
