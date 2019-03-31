@@ -32,4 +32,6 @@ https://github.com/hraverkar/ProgramForDaily/blob/master/RepalceStringWithWord.c
 https://github.com/hraverkar/ProgramForDaily/blob/master/RunningLengthIncoading.cs
 13) Array sort,  Find maximum and minimum in given array and find median of array.
 https://github.com/hraverkar/ProgramForDaily/blob/master/ArrayOperation.cs
+14) https://github.com/hraverkar/ProgramForDaily/commit/93de734a5f8e9d969a4a3e1358741177b5f66e9f
+Stock Span Problem using Stack.
 
