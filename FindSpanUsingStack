@@ -1,0 +1,45 @@
+using System;
+using System.Collections.Generic;
+
+
+namespace ConsoleApplication32
+{
+    internal static class Program
+    {
+        public static void Main(string[] args)
+        {
+            var array = new int[] {100,60,70,65,80,85};
+            var length = array.Length;
+           var t= GetMaximumArea(array, length);
+           foreach (var variable in t)
+           {
+               Console.WriteLine(variable);
+           }
+           
+        }
+
+        private static IEnumerable<int> GetMaximumArea(IReadOnlyList<int> array, int length)
+        {
+            var stack = new Stack<int>();
+            var span = new int[length];
+
+            span[0] = 1;
+            stack.Push(0);
+            for (var i = 1; i <length; i++)
+            {
+                while (stack.Count != 0 && array[i] > array[stack.Peek()])
+         
+                    stack.Pop();
+                if (stack.Count == 0)
+                    span[i] = i + 1;
+                else
+                {
+                    span[i] = i - stack.Peek();
+                }
+                    stack.Push(i);
+            }
+
+            return span;
+        }
+    }
+}
