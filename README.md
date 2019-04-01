@@ -34,4 +34,6 @@ https://github.com/hraverkar/ProgramForDaily/blob/master/RunningLengthIncoading.
 https://github.com/hraverkar/ProgramForDaily/blob/master/ArrayOperation.cs
 14) https://github.com/hraverkar/ProgramForDaily/commit/93de734a5f8e9d969a4a3e1358741177b5f66e9f
 Stock Span Problem using Stack.
+15) https://github.com/hraverkar/ProgramForDaily/commit/2a48be2570b1d5ab2168a26be3b1edc539170d0e
+Remove adjacent 
 
