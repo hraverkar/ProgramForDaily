@@ -48,10 +48,15 @@ namespace Array_2D
           }
         }
       }
-
-      foreach (var variable in transpose)
+      for (var i = 0; i < 5; i++)
       {
-        Console.Write(variable);
+        for (var j = 0; j < 3; j++)
+        {
+          // Print out each element
+          Console.Write(+transpose[i, j] + ",");
+        }
+        Console.WriteLine();
+        // Print new line character after the row is printed in above loop
       }
     }
   }
