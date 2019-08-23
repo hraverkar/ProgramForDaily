@@ -1,0 +1,11 @@
+C:\Users\Harshal\source\repos\ConsoleApp72\ConsoleApp72\obj\Debug\netcoreapp2.1\ConsoleApp72.csprojAssemblyReference.cache
+C:\Users\Harshal\source\repos\ConsoleApp72\ConsoleApp72\obj\Debug\netcoreapp2.1\ConsoleApp72.csproj.CoreCompileInputs.cache
+C:\Users\Harshal\source\repos\ConsoleApp72\ConsoleApp72\obj\Debug\netcoreapp2.1\ConsoleApp72.AssemblyInfoInputs.cache
+C:\Users\Harshal\source\repos\ConsoleApp72\ConsoleApp72\obj\Debug\netcoreapp2.1\ConsoleApp72.AssemblyInfo.cs
+C:\Users\Harshal\source\repos\ConsoleApp72\ConsoleApp72\bin\Debug\netcoreapp2.1\ConsoleApp72.deps.json
+C:\Users\Harshal\source\repos\ConsoleApp72\ConsoleApp72\bin\Debug\netcoreapp2.1\ConsoleApp72.runtimeconfig.json
+C:\Users\Harshal\source\repos\ConsoleApp72\ConsoleApp72\bin\Debug\netcoreapp2.1\ConsoleApp72.runtimeconfig.dev.json
+C:\Users\Harshal\source\repos\ConsoleApp72\ConsoleApp72\bin\Debug\netcoreapp2.1\ConsoleApp72.dll
+C:\Users\Harshal\source\repos\ConsoleApp72\ConsoleApp72\bin\Debug\netcoreapp2.1\ConsoleApp72.pdb
+C:\Users\Harshal\source\repos\ConsoleApp72\ConsoleApp72\obj\Debug\netcoreapp2.1\ConsoleApp72.dll
+C:\Users\Harshal\source\repos\ConsoleApp72\ConsoleApp72\obj\Debug\netcoreapp2.1\ConsoleApp72.pdb
