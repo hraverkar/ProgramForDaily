@@ -1,4 +1,4 @@
-# Program For Daily
+# Program Daily
 Daily life small program  using C#. 
 
 Tools : 
